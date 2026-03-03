@@ -1,0 +1,19 @@
+<!-- Placeholder 192x192 icon - Replace with actual PNG -->
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192">
+  <defs>
+    <linearGradient id="grad192" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#6366f1;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#8b5cf6;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="192" height="192" rx="38" fill="url(#grad192)"/>
+  <circle cx="96" cy="75" r="30" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="6"/>
+  <circle cx="96" cy="75" r="30" fill="none" stroke="white" stroke-width="6" 
+          stroke-dasharray="141" stroke-dashoffset="35" 
+          stroke-linecap="round" transform="rotate(-90 96 75)"/>
+  <text x="96" y="83" font-family="Arial" font-size="24" font-weight="bold" 
+        fill="white" text-anchor="middle">75%</text>
+  <circle cx="45" cy="128" r="8" fill="white"/>
+  <circle cx="96" cy="128" r="8" fill="white"/>
+  <circle cx="147" cy="128" r="8" fill="rgba(255,255,255,0.3)"/>
+</svg>
